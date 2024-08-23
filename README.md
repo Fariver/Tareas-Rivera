@@ -9,4 +9,4 @@ Tomaremos en cuenta:
 - Premios
 - Tipo de música más escuchada en Chile y otros paises.
 
-
+Aquí está el link a [Miro](https://miro.com/welcomeonboard/OGVNbmdCSzIxRExseEJNRHl6clNOcDhKc0cyZU8wWHlGZTJiVUZLOVl1eU5PSFpIVmp6NVpvWm91am1JUFdxVXwzNDU4NzY0NTYyMzk2MTI4NTU0fDI=?share_link_id=372660117530) con nuestras ideas. 
