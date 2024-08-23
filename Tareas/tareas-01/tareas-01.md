@@ -1,13 +1,22 @@
-# Proyecto ¿Por qué volvieron los Bunkers?
+# Tarea 01 - Fernanda Rivera
 
-Nuestro grupo está conformado por Gabriela López, Fernanda Rivera y Antonia Walker. Luego de proponer distintas ideas y analizar sus pros y contras realizaremos nuestro proyecto sobre ¿Por qué volvieron los Bunkers? Las cifras detrás del éxito musical. Recorrer la trayectoria de la banda con una hipótesis que trate de explicar la notoriedad que ha recibido la banda.
-Además, mostrar una comparación con otras bandas de rock nacionales.
+### 1. El éxito de Los Bunkers
+Los Bunkers volvieron de su receso de casi una década este 2024 con 
+Ven Aquí, una serie de conciertos. Agotaron las entradas de sus shows en el Estadio Santa Laura (11 y 12 de marzo), en el Estadio Ester Roa de Concepción (25 de marzo) y en la Quinta Vergara de Viña del Mar. 
 
-Tomaremos en cuenta:
-- Datos de número de ventas de albumes 
-- Conciertos
-- Premios
-- Tipo de música más escuchada en Chile y otros paises.
+Es un hecho inédito para una banda nacional que resalta la popularidad que ha ido creciendo con los años, incluso estando en receso.
 
-Aquí está el link a [Miro](https://miro.com/welcomeonboard/OGVNbmdCSzIxRExseEJNRHl6clNOcDhKc0cyZU8wWHlGZTJiVUZLOVl1eU5PSFpIVmp6NVpvWm91am1JUFdxVXwzNDU4NzY0NTYyMzk2MTI4NTU0fDI=?share_link_id=372660117530) con nuestras ideas. 
-loremipsum dolor 
+![Imagen](https://www.radiomontecarlo.cl/wp-content/uploads/2023/08/unnamed.jpg)
+
+Pros:
+- Existen datos sobre la gira con la que la banda regresó a los escenarios. Por ejemplo, La agrupación confirmó que 100.000 fueron las personas que estuvieron en los dos conciertos en el Estadio Nacional del 27 y 28 de abril de este año.
+
+- Existe una gran cantidad de datos disponibles sobre ventas de álbumes, entradas a conciertos y reproducciones en plataformas de streaming, lo que permite un análisis detallado y objetivo del éxito de la banda. 
+
+- También existen datos sobre la musica a nivel nacional para poder comparar con otras bandas. Por ejemplo, Según IFPI, la industria musical chilena creció un 6,5% en 2023.
+
+Contras:
+CONTRAS:
+- Comparar el éxito de diferentes bandas puede ser complicado debido a diferencias en el tiempo, género, y audiencia objetivo. Por ejemplo, la audiencia de la música rock en los años 90 era muy diferente al de hoy, lo que podría hacer que las comparaciones sean injustas o inexactas.
+
+- La recopilación y organización de datos históricos sobre ventas, conciertos y álbumes puede ser un proceso largo y complicado.
