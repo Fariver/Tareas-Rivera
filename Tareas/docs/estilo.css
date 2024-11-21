@@ -1,0 +1,75 @@
+/* Estilos globales */
+body {
+    font-family: Verdana, sans-serif;
+    background-color: #ffffff;
+    color: #000000;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* Header */
+.header {
+    background-color: #005f73;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+#main-title {
+    font-size: 2em;
+    margin: 0;
+}
+
+/* Secciones */
+.section {
+    padding: 20px;
+    margin: 10px 0;
+    border-bottom: 1px solid #cccccc;
+}
+#Experiencia{
+    background-color: #e3dddc; 
+
+}
+#habilidades{
+    background-color: #e3dddc; 
+}
+#contacto {
+    background-color: #e3dddc; /* Color de fondo */
+    padding: 20px;            /* Espaciado interno */
+}
+
+
+.section h2 {
+    color: #0a9396;
+    font-size: 1.5em;
+}
+
+/* Links */
+a {
+    color: #3a86ff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Footer */
+.footer {
+    background-color: #005f73;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+/* Imagen */
+img {
+    display: block;
+    margin: 0 auto;         /* Centrar la imagen */
+    width: 300px;           /* Tamaño del lado del cuadrado */
+    height: 300px;          /* Hace que sea cuadrada */
+    object-fit: cover;      /* Ajusta la imagen para que llene el cuadro */
+    border-radius: 0;       /* Sin bordes redondeados */
+}
+
